@@ -1,0 +1,176 @@
+@media only screen and (max-width: 376px) {
+.hide_mobile {
+    font-size: 14px !important;
+}
+
+#full_width {
+    width: 120px !important;
+}
+
+
+}
+
+
+@media only screen and (max-width: 426px) {
+.hide_mobile {
+    font-size: 14px !important;
+}
+
+#full_width {
+    width: 180px !important;
+}
+
+.disable_members_found {
+    visibility: hidden !important;
+}
+
+
+
+}
+
+
+@media only screen and (max-width: 768px) {
+.logo_resize {
+    width: 23%;
+}
+
+
+
+}
+@media only screen and (min-width: 768px) {
+.logo_resize {
+    width: 50%;
+}
+
+}
+
+@media only screen and (max-width: 1200px) {
+#expand-attachments {
+    visibility: hidden;
+}
+
+
+
+}
+
+
+
+
+@media only screen and (max-width: 370px) {
+.hide_mobile {
+   font-size: 14px;
+}
+
+#full_width {
+    width: 180px !important;
+}
+
+.logo_resize {
+    width: 40%;
+}
+
+
+
+}
+
+@media only screen and (max-width: 321px) {
+.hide_mobile {
+    font-size: 14px !important;
+}
+
+#full_width {
+    width: 120px !important;
+}
+
+.logo_resize {
+    width: 40%;
+}
+
+
+
+}
+@media only screen and (max-width: 361px) {
+.hide_mobile {
+    font-size: 14px !important;
+}
+
+#full_width {
+    width: 130px !important;
+}
+
+.logo_resize {
+    width: 40%;
+}
+
+
+
+}
+
+
+    .panel-green {
+    border-color: #5cb85c;
+  }
+  .panel-green > .panel-heading {
+    border-color: #5cb85c;
+    color: white;
+    background-color: #5cb85c;
+  }
+  .panel-green > a {
+    color: #5cb85c;
+  }
+  .panel-green > a:hover {
+    color: #3d8b3d;
+  }
+  .panel-red {
+    border-color: #d9534f;
+  }
+  .panel-red > .panel-heading {
+    border-color: #d9534f;
+    color: white;
+    background-color: #d9534f;
+  }
+  .panel-red > a {
+    color: #d9534f;
+  }
+  .panel-red > a:hover {
+    color: #b52b27;
+  }
+  .panel-yellow {
+    border-color: #f0ad4e;
+  }
+  .panel-yellow > .panel-heading {
+    border-color: #f0ad4e;
+    color: white;
+    background-color: #f0ad4e;
+  }
+  .panel-yellow > a {
+    color: #f0ad4e;
+  }
+  .panel-yellow > a:hover {
+    color: #df8a13;
+  }
+
+
+  .nav-tabs-custom>.nav-tabs>li.active {
+     border-top-color: #ffffff;
+     
+  }
+
+  .nav-tabs-custom>.nav-tabs>li.active>a, .nav-tabs-custom>.nav-tabs>li.active:hover>a {
+    background-color: rgba(255, 118, 68, 0.8);
+    color: #fff;
+    font-weight: 400;
+  }
+
+  .nav-tabs-custom>.nav-tabs>li>a {
+    background: 
+    rgba(255, 118, 68, 0.22);
+    margin: 0;
+    border-radius: 5px;
+   
+  }
+
+  .nav-tabs-custom>.nav-tabs>li>a:hover {
+    background: rgba(255, 118, 68, 0.2);
+    color: #444;
+  }
